@@ -21,3 +21,26 @@ permalink: LINKS/
 * [File Management in Linux](https://www.geeksforgeeks.org/file-management-in-linux/) --- This website provides guidance on Linux file management, including instructions for using relevant commands!
 
 * [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) --- The video covers computer file systems, file organization, file formats, data storage, metadata, and hierarchical file systems for efficient data management.
+
+## WEEK 04
+
+* [Pointers in C](https://www.youtube.com/watch?v=2ybLD6_2gKM) --- This straight-to-the-point video explains about pointers in low level memory access!
+
+## WEEK 05
+
+* [Introduction to Memory](https://youtu.be/PujjqfUhtNo?si=Ru-xjYLxVAXeAryn) --- You can never go wrong with a nesos academy video, check out this nesos video about memory!
+
+## WEEK 06
+
+* [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/) --- this website explains about fork() function some examples in C programming language.
+
+## WEEK 07
+
+* [How to Use SCP Command](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) --- This website has been my 'go to' when SCP command is neeeded.
+
+## WEEK 08
+
+* [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=OrWhRurTMIwcwcqU) --- A Thorough Step-by-Step Manual for Constructing Linux From Scratch
+
+
+
