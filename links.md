@@ -42,5 +42,12 @@ permalink: LINKS/
 
 * [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=OrWhRurTMIwcwcqU) --- A Thorough Step-by-Step Manual for Constructing Linux From Scratch
 
+## WEEK 09
 
+* [https://www.linuxfromscratch.org/](Official Linux From Scratch Website) --- This website provides the latest version of the LFS book, which is the primary resource for building your own Linux system from scratch.
 
+* [https://www.linuxquestions.org/questions/linux-from-scratch-13/#google_vignette](LFS Forum) --- My confusion reliever, this is a popular online community and forum dedicated to Linux. The Linux From Scratch section within the forum is specifically for discussions related to the Linux From Scratch project.
+
+## WEEK 10
+
+* [https://www.youtube.com/watch?v=cmH5B7LjhoE](Kernotex's YouTube LFS 12.0 Ch.8) --- Kernotex's YouTube video for LFS ch.8
